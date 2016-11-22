@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Examen 1ºEval</string>
+    <string name="actividad01">ACTIVIDAD 01</string>
+    <string name="actividad02">ACTIVIDAD 02</string>
+    <string name="actividad03">ACTIVIDAD 03</string>
+    <string name="SALIR">SALIR</string>
+    <string name="toastActividad3">Actividad no implementada</string>
+    <string name="candidato">Perfil del candidato</string>
+    <string name="nombre">Nombre</string>
+    <string name="provincia">Provincia</string>
+    <string name="sexo">Sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="conocimientos">Conocimientos</string>
+    <string name="php">PHP</string>
+    <string name="java">JAVA</string>
+    <string name="html">HTML</string>
+    <string name="css">CSS</string>
+    <string name="resultadooperacion">Resultado de la operacion</string>
+    <string name="evaluar">Evaluar</string>
+    <string name="candidatos">Candidatos:</string>
+    <string name="seleccioncandidato">Seleccion de candidato</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="rechazar">Rechazar</string>
+
+
+
+
+</resources>
